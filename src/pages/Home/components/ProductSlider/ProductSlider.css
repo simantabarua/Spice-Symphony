@@ -1,0 +1,7 @@
+.productSlider{
+    @apply h-full  
+}
+
+.productSlider img{
+    @apply h-full  w-96 
+}
